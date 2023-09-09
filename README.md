@@ -1,7 +1,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/PujithaGrandhi/PujithaGrandhi/blob/main/header.png" alt="header"/>
+  <img width = "75%" src="https://github.com/PujithaGrandhi/PujithaGrandhi/blob/main/header.png" alt="header"/>
 </div> 
 <p style="font-family:georgia,garamond,serif;" align="center"> (Open to Work)</p>
 
